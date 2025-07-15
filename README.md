@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shivam Chahar</h1>
+<h1 align="center">Hey 👋, I'm Shivam Singh</h1>
 <h3 align="center">🚀 A passionate ML & Game Dev Engineer | Code-named: Nyx 🖤</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -38,7 +38,10 @@
   <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" title="Blender"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/></a>
-  <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank"><img src="https://raw.githubusercontent.com/comfyanonymous/ComfyUI/master/web/icons/icon-192.png" width="40" title="ComfyUI"/></a>
+  <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/146242262?s=200&v=4" width="40" title="ComfyUI"/>
+</a>
+
 </p>
 
 
