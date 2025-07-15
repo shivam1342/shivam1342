@@ -6,12 +6,12 @@
 ---
 
 - 🌱 I’m currently diving deeper into **Machine Learning**, **DSA**, and **Full-stack Dev**
-- 🎮 I build immersive games with **Unity + Blender**, powered by real-time AI behavior
-- 💬 Ask me about:  
-  `Python`, `C++`, `Flask`, `Unity`, `MySQL`, `DSA`, `AI/ML`, `Game AI`
+
+- 🌌 I wield: 
+  `Python`, `C++`, `Flask`, `Unity`, `MySQL`,`PostgreSQL`,`SQLite`, `DSA`, `AI/ML`, `Game AI`
 - 📫 How to reach me: **shivamchahar300@gmail.com**
 - ✨ Fun fact: I believe **“Presence beats noise.”**  
-- 💼 Currently working on: **AI-Powered NPC Behavior System + Forest Fire Detection ML App**
+
 
 ---
 
@@ -19,8 +19,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivam-singh-dfgh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://leetcode.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>
+  
 </p>
 
 ---
@@ -33,11 +32,15 @@
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/></a>
   <a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" title="Blender"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/></a>
+  <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank"><img src="https://raw.githubusercontent.com/comfyanonymous/ComfyUI/master/web/icons/icon-192.png" width="40" title="ComfyUI"/></a>
 </p>
+
 
 ---
 
