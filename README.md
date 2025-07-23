@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently diving deeper into **Machine Learning**, **DSA**, and **Full-stack Dev**
+- 🌱 I’m currently diving deeper into **Machine Learning**, **DSA**, and **Backend Dev**
 
 - 🌌 I wield: 
   `Python`, `C++`, `Flask`, `Unity`, `MySQL`,`PostgreSQL`,`SQLite`, `DSA`, `AI/ML`, `Game AI`
