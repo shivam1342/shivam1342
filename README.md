@@ -19,6 +19,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivam-singh-dfgh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/shivam1342"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   
 </p>
 
@@ -41,7 +42,7 @@
   <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/146242262?s=200&v=4" width="40" title="ComfyUI"/>
 </a>
-<a href="https://github.com/shivam1342"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+
 
 </p>
 
