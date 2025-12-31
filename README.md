@@ -18,10 +18,17 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivam-singh-dfgh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/shivam1342"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  
+  <a href="https://www.linkedin.com/in/shivam-singh-dfgh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/shivam1342" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://x.com/shivam_124387" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+  </a>
 </p>
+
 
 ---
 
