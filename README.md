@@ -1,14 +1,14 @@
 <h1 align="center">Hey 👋, I'm Shivam Singh</h1>
-<h3 align="center">🚀 A passionate ML & Game Dev Engineer | Code-named: Nyx 🖤</h3>
+<h3 align="center">🚀 A passionate AIML & Backend Engineer | Code-named: Nyx 🖤</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
-- 🌱 I’m currently diving deeper into **Machine Learning**, **DSA**, and **Backend Dev**
+- 🌱 I’m currently diving deeper into **Artificial Intelligence Machine Learning**, **DSA**, and **Backend Dev**
 
 - 🌌 I wield: 
-  `Python`, `C++`, `Flask`, `Unity`, `MySQL`,`PostgreSQL`,`SQLite`, `DSA`, `AI/ML`, `Game AI`
+  `Python`, `C++`, `Flask`, `AI/ML`, `LLM`, `Unity`, `MySQL`,`PostgreSQL`,`SQLite`, `DSA`, `Game AI`
 - 📫 How to reach me: **shivamchahar300@gmail.com**
 - ✨ Fun fact: I believe **“Presence beats noise.”**  
 
