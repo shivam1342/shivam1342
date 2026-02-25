@@ -1,65 +1,67 @@
 <h1 align="center">Shivam Singh</h1>
-<h3 align="center">AI Engineer • LLM Systems • Production ML</h3>
+<h3 align="center">AI Systems Engineer • RAG • Backend + ML Integration</h3>
 
 <p align="center">
-Building AI systems that operate reliably in production — not just experiments.
+Building end-to-end AI systems — from model evaluation to secure backend integration.
 </p>
 
 ---
 
 ## 🧠 About
 
-I design end-to-end AI systems — from data ingestion and model evaluation to backend integration and deployment.
+I design and build AI-powered systems that integrate machine learning models into real backend architectures.
 
-Focus areas:
+My focus is on:
 - Retrieval-Augmented Generation (RAG) systems
-- LLM evaluation & adversarial robustness
-- Production-oriented ML pipelines
-- Backend architecture for AI applications
+- Secure multi-user AI architectures
+- LLM evaluation and robustness analysis
+- Production-style backend design for ML applications
 
-I optimize for reliability, latency, and real-world edge cases.
+I optimize for reliability, latency, and clear system boundaries — not just model accuracy.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 NeuralDocs – Production Multi-User RAG System  
+### 🔹 NeuralDocs – Multi-User RAG System  
 🔗 Repo: https://github.com/shivam1342/neuraldocs-rag-system  
 🌍 Live: https://neuraldocs-production.up.railway.app/
 
-Session-isolated RAG architecture preventing cross-user data leakage via metadata-filtered vector retrieval.  
-Built async ingestion (PDF/DOCX/TXT), chunking pipeline, 384-dim embeddings, and LLaMA-3 integration via Groq API.  
-Reduced cold-start latency from ~13s to <1s using lazy embedding initialization and service restructuring.
+Built a session-isolated RAG architecture using metadata-filtered vector retrieval in ChromaDB to prevent cross-user data leakage.  
+Implemented async ingestion (PDF/DOCX/TXT), chunking pipeline, 384-dim embeddings, and LLaMA-3 integration via Groq API.  
+Reduced cold-start latency from ~13s to <1s via lazy embedding initialization and service restructuring.  
+Designed retrieval-layer access control logic to enforce user-level isolation.
 
 ---
 
-### 🔹 Adversarial LLM Evaluation (Google-LPU Research Collaboration)
+### 🔹 Adversarial LLM Evaluation (Research Collaboration)
 
-Structured red-teaming across 10+ generative models.  
+Conducted structured red-teaming across 10+ generative models.  
 Analyzed 1,000+ responses to identify reproducible failure patterns and guardrail weaknesses.  
-Focused on systematic robustness evaluation and failure taxonomy.
+Developed a taxonomy of model failure modes and robustness gaps.
 
 ---
 
 ### 🔹 EduCare – Dropout Risk Prediction System (Patent Published)  
 🔗 https://github.com/shivam1342/student-dropout-prediction-system
 
-Supervised ML system for early dropout risk identification and targeted intervention modeling.  
-Implemented feature engineering, model comparison, and performance evaluation pipeline.
+Supervised ML pipeline for early dropout risk identification.  
+Performed feature engineering, model comparison, cross-validation, and evaluation metric analysis to benchmark predictive performance.
 
 ---
 
 ### 🔹 StressSense – ML Pipeline for Stress Detection  
 🔗 https://github.com/shivam1342/stress_prediction
 
-End-to-end ML workflow: preprocessing, feature engineering, model training, and validation with reproducible evaluation metrics.
+End-to-end ML workflow including preprocessing, feature engineering, model training, validation, and performance evaluation with reproducible metrics.
 
 ---
 
 ### 🔹 TaskPilot – Role-Based Backend System  
 🔗 https://github.com/shivam1342/jira_dashboard
 
-RBAC-based task management backend with workflow handling and structured data access control.
+RBAC-based task management backend with structured access control and workflow state handling.  
+Designed relational schema and authorization logic at the middleware layer.
 
 ---
 
@@ -67,18 +69,17 @@ RBAC-based task management backend with workflow handling and structured data ac
 🔗 https://github.com/shivam1342/blog-website  
 🌍 Live: https://blog-website-blogify.vercel.app/
 
-Full-stack blog platform with CRUD operations and deployment on Vercel.
-
+Full-stack CRUD blog application with backend API integration and deployment on Vercel.
 
 ---
 
 ## ⚙️ Core Stack
 
-**AI / ML**  
-Machine Learning • LLMs • RAG • Model Evaluation • Scikit-Learn • TensorFlow • NumPy • Pandas  
+**AI / ML**
+Retrieval-Augmented Generation (RAG) • LLM Integration • Model Evaluation • Scikit-Learn • TensorFlow • Feature Engineering • Cross-Validation • NumPy • Pandas  
 
-**Backend & Systems**  
-Python • FastAPI • Flask • ChromaDB • PostgreSQL • SQLite • Docker • Git • Linux  
+**Backend & Systems**
+Python • FastAPI • Flask • REST APIs • ChromaDB • PostgreSQL • SQLite • Docker • Git • Linux  
 
 ---
 
