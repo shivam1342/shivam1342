@@ -33,7 +33,7 @@ Reduced cold-start latency from ~13s to <1s using lazy embedding initialization 
 
 ---
 
-### 🔹 Adversarial LLM Evaluation (Google Research Collaboration)
+### 🔹 Adversarial LLM Evaluation (Google-LPU Research Collaboration)
 
 Structured red-teaming across 10+ generative models.  
 Analyzed 1,000+ responses to identify reproducible failure patterns and guardrail weaknesses.  
