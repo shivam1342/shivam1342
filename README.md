@@ -50,18 +50,18 @@ Performed feature engineering, model comparison, cross-validation, and evaluatio
 
 ---
 
-### 🔹 StressSense – ML Pipeline for Stress Detection  
-🔗 https://github.com/shivam1342/stress_prediction
-
-End-to-end ML workflow including preprocessing, feature engineering, model training, validation, and performance evaluation with reproducible metrics.
-
----
-
 ### 🔹 TaskPilot – Role-Based Backend System  
 🔗 https://github.com/shivam1342/jira_dashboard
 
 RBAC-based task management backend with structured access control and workflow state handling.  
 Designed relational schema and authorization logic at the middleware layer.
+
+---
+
+### 🔹 StressSense – ML Pipeline for Stress Detection  
+🔗 https://github.com/shivam1342/stress_prediction
+
+End-to-end ML workflow including preprocessing, feature engineering, model training, validation, and performance evaluation with reproducible metrics.
 
 ---
 
