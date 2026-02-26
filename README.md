@@ -23,7 +23,7 @@ I optimize for reliability, latency, and clear system boundaries — not just mo
 
 ## 🚀 Featured Projects
 
-### 🔹 NeuralDocs – Multi-User RAG System  
+### 🔹 NeuralDocs – Session-Isolated Multi-User RAG System  
 🔗 Repo: https://github.com/shivam1342/neuraldocs-rag-system  
 🌍 Live: https://neuraldocs-production.up.railway.app/
 
@@ -50,7 +50,7 @@ Performed feature engineering, model comparison, cross-validation, and evaluatio
 
 ---
 
-### 🔹 TaskPilot – Role-Based Backend System  
+### 🔹 TaskPilot – RBAC-Based Task Management Backend  
 🔗 https://github.com/shivam1342/jira_dashboard
 
 RBAC-based task management backend with structured access control and workflow state handling.  
