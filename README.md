@@ -25,7 +25,7 @@ I optimize for reliability, latency, and clear system boundaries — not just mo
 
 ### 🔹 NeuralDocs – Session-Isolated Multi-User RAG System  
 🔗 Repo: https://github.com/shivam1342/neuraldocs-rag-system  
-🌍 Live: https://neuraldocs-production.up.railway.app/
+🌍 Live: https://neuraldocs.onrender.com/
 
 Built a session-isolated RAG architecture using metadata-filtered vector retrieval in ChromaDB to prevent cross-user data leakage.  
 Implemented async ingestion (PDF/DOCX/TXT), chunking pipeline, 384-dim embeddings, and LLaMA-3 integration via Groq API.  
